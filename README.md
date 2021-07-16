@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaustubhalandkar
 - 👀 I’m interested in working with data and building dynamic and scalable web applications.
 - 🌱 I’m currently learning data analysis.
-- 💞️ I’m looking to collaborate on projects 
 - 📫 Reach me at (kaustubhalandkar@gmail.com)
 
 <!---
